@@ -1,4 +1,4 @@
-# Aklatan Library Management System
+# Library System
 
 A Java Swing desktop application for a small school library. Staff can keep a catalog of books, magazines and DVDs, register members, lend and take back items, and see late fines and a summary report. It is built to demonstrate the four pillars of object-oriented programming.
 
